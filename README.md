@@ -34,6 +34,7 @@ _Builds/maintains Qortal Core, Qortal Hub, or Q-Apps; ships features end-to-end 
 
 | GitHub | Languages | Timezone | Notes |
 |---|---|---|---|
+| [Dodgers76](https://github.com/dodgers76) | en | GMT | Q-Apps |
 | [QuickMythril](https://github.com/QuickMythril) | en | UTC-5 | Core / Hub / Q-Apps |
 
 ### Translators
